@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+baseurl: 'https://desktoptools.github.io'
+
+url: 'https://desktoptools.github.io'
